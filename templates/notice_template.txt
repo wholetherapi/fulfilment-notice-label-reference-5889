@@ -1,0 +1,10 @@
+Subject: Dispatch confirmation - {{SHIPMENT_REFERENCE}}
+
+Dear {{CONTACT_NAME}},
+
+This is to confirm that shipment {{SHIPMENT_REFERENCE}} has been handed over to {{CARRIER_LABEL}} and is on its way to you.
+
+If anything looks wrong with the consignment, reply to this message and our dispatch desk will follow it up.
+
+Kind regards,
+Halstead & Rowe Dispatch Team
